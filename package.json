@@ -19,5 +19,11 @@
   "homepage": "https://github.com/britbolt/zookeepr#readme",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+        "scripts": {
+      "test": "jest"
+    }
 }
