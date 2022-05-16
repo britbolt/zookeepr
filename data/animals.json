@@ -119,8 +119,13 @@
       "id": "11"
     },
     {
-      "name": "Darlene",
-      "id": "jhgdja3ng2"
+      "name": "bates",
+      "species": "dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "12"
     }
   ]
 }
